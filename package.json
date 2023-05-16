@@ -1,0 +1,11 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "minhaz",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only index.ts"
+  }
+}
